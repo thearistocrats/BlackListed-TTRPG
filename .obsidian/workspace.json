@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/Mouse Cage.md",
+                "file": "Over view.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mouse Cage"
+              "title": "Over view"
             }
           }
         ]
@@ -182,14 +182,17 @@
   },
   "active": "0d22f8d80cc2d0d6",
   "lastOpenFiles": [
-    "Systems/Universal Breakdown.md",
+    "Magic/Jester's Curse (Tragedy).md",
+    "Untitled.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
     "Systems/Mouse Cage.md",
-    "Systems/Anomalies.md",
     "Magic/Sun Goddess Spells.md",
     "Magic/Moon Magic.md",
-    "Magic/Jester's Curse (Tragedy).md",
     "Magic/Jester's Curse (Mania).md",
     "Magic/Jester's Curse (Chaos).md",
+    "Systems/Universal Breakdown.md",
+    "Systems/Anomalies.md",
     "Magic/Untitled.md",
     "Magic/Magic.md",
     "Factions/Rat-Folk.md",
@@ -203,13 +206,10 @@
     "Over view.md",
     "Geography",
     "Peoples/Untitled",
-    "Untitled.base",
     "Magic",
     "Items",
     "Weapons",
     "Systems",
-    "People",
-    "Peoples",
     "Untitled.canvas",
     "Welcome.md"
   ]
