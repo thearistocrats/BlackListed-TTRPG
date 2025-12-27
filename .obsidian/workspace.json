@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "472c203777de896f",
+        "id": "fb04379a6af60c3a",
         "type": "tabs",
         "children": [
           {
-            "id": "8d0d974338e886ff",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "614e6699f9488bcc",
+            "id": "0d22f8d80cc2d0d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Over view.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Over view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,35 +180,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "614e6699f9488bcc",
+  "active": "0d22f8d80cc2d0d6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Systems/Mouse Cage.md",
-    "systems.md",
-    "Systems/Universal Breakdown.md",
-    "Systems/Anomalies.md",
     "geography.md",
+    "systems.md",
     "Over view.md",
     "Magic/Magic.md",
-    "Factions/Beuro of Research and Response.md",
-    "Factions/Avareich.md",
-    "World Systems.md",
-    "Factions/Rat-Folk.md",
-    "Factions/Unicorns.md",
-    "Factions/Machine God.md",
-    "Factions/BioWare Robotics.md",
-    "This is a.md",
-    "Factions/Universal Waste Management.md",
     "Magic/Jester's Curse (Tragedy).md",
     "Untitled.base",
     "Untitled 2.base",
     "Untitled 1.base",
+    "Systems/Mouse Cage.md",
     "Magic/Sun Goddess Spells.md",
     "Magic/Moon Magic.md",
     "Magic/Jester's Curse (Mania).md",
     "Magic/Jester's Curse (Chaos).md",
+    "Systems/Universal Breakdown.md",
+    "Systems/Anomalies.md",
     "Magic/Untitled.md",
+    "Factions/Rat-Folk.md",
+    "Factions/Machine God.md",
+    "Factions/BioWare Robotics.md",
     "Factions/Untitled",
+    "Factions/Unicorns.md",
+    "Factions/Universal Waste Management.md",
+    "Factions/Beuro of Research and Response.md",
+    "Factions/Avareich.md",
     "Geography",
     "Peoples/Untitled",
     "Magic",
