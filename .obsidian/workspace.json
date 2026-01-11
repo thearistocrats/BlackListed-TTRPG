@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/Anomalies.md",
+                "file": "Random.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anomalies"
+              "title": "Random"
             }
           }
         ]
@@ -182,19 +182,29 @@
   },
   "active": "0d22f8d80cc2d0d6",
   "lastOpenFiles": [
+    "Factions/BioWare Robotics/BioWare Robotics Synthetics SiliCarbon FalseFlesh Material.md",
+    "Factions/BioWare Robotics/BioWare Robotics.md",
+    "Random.md",
+    "Over view.md",
+    "systems.md",
+    "World Systems.md",
+    "Factions/Universal Waste Management.md",
+    "Factions/Unicorns.md",
+    "Factions/Rat-Folk.md",
+    "Factions/Machine God.md",
+    "Factions/Beuro of Research and Response.md",
+    "Factions/Avareich.md",
+    "Factions/BioWare Robotics",
+    "Magic/Magic.md",
+    "Systems/Anomalies.md",
     "Systems/Mouse Cage.md",
     "Systems/Universal Breakdown.md",
-    "Systems/Anomalies.md",
-    "Over view.md",
-    "World Systems.md",
     "Weapons",
     "Peoples",
     "People",
     "Items",
     "Geography",
     "geography.md",
-    "systems.md",
-    "Magic/Magic.md",
     "Magic/Jester's Curse (Tragedy).md",
     "Untitled.base",
     "Untitled 2.base",
@@ -204,15 +214,7 @@
     "Magic/Jester's Curse (Mania).md",
     "Magic/Jester's Curse (Chaos).md",
     "Magic/Untitled.md",
-    "Factions/Rat-Folk.md",
-    "Factions/Machine God.md",
-    "Factions/BioWare Robotics.md",
-    "Factions/Untitled",
-    "Factions/Unicorns.md",
-    "Factions/Universal Waste Management.md",
-    "Factions/Beuro of Research and Response.md",
-    "Factions/Avareich.md",
-    "Peoples/Untitled",
+    "Factions/BioWare Robotics",
     "Untitled.canvas",
     "Welcome.md"
   ]
