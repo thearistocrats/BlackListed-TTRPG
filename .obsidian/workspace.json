@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random.md",
+                "file": "Magic/Moon Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random"
+              "title": "Moon Magic"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "0d22f8d80cc2d0d6",
   "lastOpenFiles": [
+    "Magic/Magic.md",
+    "Random.md",
     "Factions/BioWare Robotics/BioWare Robotics Synthetics SiliCarbon FalseFlesh Material.md",
     "Factions/BioWare Robotics/BioWare Robotics.md",
-    "Random.md",
     "Over view.md",
     "systems.md",
     "World Systems.md",
@@ -195,7 +196,6 @@
     "Factions/Beuro of Research and Response.md",
     "Factions/Avareich.md",
     "Factions/BioWare Robotics",
-    "Magic/Magic.md",
     "Systems/Anomalies.md",
     "Systems/Mouse Cage.md",
     "Systems/Universal Breakdown.md",
