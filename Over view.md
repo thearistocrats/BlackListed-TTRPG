@@ -9,3 +9,6 @@ the [[factions]] are largely influenced by the [[geography]] and [[systems]], an
 
 The events of this campaign are largely influenced by the geography, systems
 >>>>>>> origin/main
+
+
+
