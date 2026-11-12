@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b5b1aee13f935a78",
+        "id": "cfb215ad09179046",
         "type": "tabs",
         "children": [
           {
-            "id": "a5784ac2cc20c4d0",
+            "id": "c0718f5e7d4866c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems/Universal Breakdown.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Universal Breakdown"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -180,20 +178,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5784ac2cc20c4d0",
+  "active": "c0718f5e7d4866c7",
   "lastOpenFiles": [
-    "Over view.md",
-    "systems.md",
     "World Systems.md",
-    "factions.md",
+    "systems.md",
     "Random.md",
-    "Factions/BioWare Robotics/BioWare Robotics Synthetics SiliCarbon FalseFlesh Material.md",
+    "Over view.md",
     "geography.md",
+    "factions.md",
     "Factions/BioWare Robotics/BioWare Robotics.md",
+    "Factions/yksisarvinen (Unicorns).md",
+    "Systems/Universal Breakdown.md",
+    "Factions/BioWare Robotics/BioWare Robotics Synthetics SiliCarbon FalseFlesh Material.md",
     "Magic/Moon Magic.md",
     "Magic/Magic.md",
     "Factions/Universal Waste Management.md",
-    "Factions/Unicorns.md",
     "Factions/Rat-Folk.md",
     "Factions/Machine God.md",
     "Factions/Beuro of Research and Response.md",
@@ -201,7 +200,6 @@
     "Factions/BioWare Robotics",
     "Systems/Anomalies.md",
     "Systems/Mouse Cage.md",
-    "Systems/Universal Breakdown.md",
     "Weapons",
     "Peoples",
     "People",
